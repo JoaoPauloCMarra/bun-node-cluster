@@ -15,3 +15,8 @@ To run:
 ```bash
 bun start
 ```
+
+
+### Result with 1m requests:
+
+![image](https://github.com/user-attachments/assets/0d05d0fd-913b-400b-8d82-61ffda6939ae)
